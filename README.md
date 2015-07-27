@@ -1,1 +1,1 @@
-This is a new file in master.
+This is a new file in master and feature1.
