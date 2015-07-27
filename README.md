@@ -1,1 +1,1 @@
-This is a new file in master and feature1, fix bug.
+This is a new file in master and feature1, fix bug, to dev.
